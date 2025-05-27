@@ -5,3 +5,4 @@ function turnLights() {
     lamp.classList.toggle('on');
     button.classList.toggle('on');
 }
+ 
